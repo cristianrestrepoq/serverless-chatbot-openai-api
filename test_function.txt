@@ -1,0 +1,11 @@
+// Test with this JSON in Lambda Function
+
+{
+  "word": "love"
+},
+
+// # You will get a response like this:
+{
+  "statusCode": 200,
+  "body": "\"Love is like a wildflower; it can be found in the most unexpected places and brings beauty and joy to those lucky enough to witness its bloom.\""
+}
